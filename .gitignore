@@ -1,0 +1,6 @@
+.godot/
+tools/
+*.tmp
+.env
+export/
+.autotest/
